@@ -1,0 +1,9 @@
+		 Welcome PARDAR Market Place
+
+ BILL Number :2635
+ Customer Name :
+ Phone Number :
+ Customer Email :
+====================================================================
+ Products			QTY			Price
+====================================================================
